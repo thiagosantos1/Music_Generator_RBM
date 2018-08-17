@@ -1,2 +1,2 @@
-# Music_Generator_RBM
+# Music Generator RBM
 A powerful RBM model to generate music.
